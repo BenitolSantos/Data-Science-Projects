@@ -1,2 +1,2 @@
-# Practicum Yandex Projects!
+# My Data Science Projects!
 
