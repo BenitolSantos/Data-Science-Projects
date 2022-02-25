@@ -1,6 +1,5 @@
 # Data Analyst and Data Scientist professional program
 
-## An example of project desriptions in README.md
 
 These projects were completed for Practicum's Data Analyst / Data Scientist professional training programs.
 
